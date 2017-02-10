@@ -1,0 +1,23 @@
+{
+  "name": "echarts-maps",
+  "version": "1.1.0",
+  "description": "only china and world map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HJin.me",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjin-me/echarts-maps.git"
+  },
+  "keywords": [
+    "echarts",
+    "maps"
+  ],
+  "bugs": {
+    "url": "https://github.com/hjin-me/echarts-maps/issues"
+  },
+  "homepage": "https://github.com/hjin-me/echarts-maps#readme"
+}
